@@ -1,4 +1,4 @@
-# SATHISH TIMETABLE
+# SATHISH'S TIMETABLE
 
 <table>
   <tr>
